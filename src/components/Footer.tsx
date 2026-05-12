@@ -52,15 +52,15 @@ export default function Footer() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2.5 text-stone-400">
                 <MapPin className="w-4 h-4 mt-0.5 text-amber-500 flex-shrink-0" />
-                350 Fifth Avenue, New York, NY 10118
+                RUDRESH B S ,Belagavi, Karnataka, India
               </li>
               <li className="flex items-center gap-2.5 text-stone-400">
                 <Phone className="w-4 h-4 text-amber-500 flex-shrink-0" />
-                (800) 555-ESTATE
+                +91 78997 72176
               </li>
               <li className="flex items-center gap-2.5 text-stone-400">
                 <Mail className="w-4 h-4 text-amber-500 flex-shrink-0" />
-                hello@estatefinder.com
+                rudreshsakri8@gmail.com
               </li>
             </ul>
           </div>
